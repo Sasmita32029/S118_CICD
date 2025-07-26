@@ -12,7 +12,7 @@
 }
 .header{
     grid-area: header;
-    background: #333;
+    background: palevioletred;
     color: white;
     display: flex;
     align-items: center;
@@ -22,7 +22,7 @@
 
 .sidebar {
     grid-area: sidebar;
-    background: #c5c0c0;
+    background: pink;
     padding: 20px;
   }
 
